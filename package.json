@@ -1,0 +1,10 @@
+{
+"name": "md2html",
+"version": "0.0.1",
+"description": "Bash compatible AWK script to convert Markdown files to HTML",
+"global": "false",
+"install": "install bin/md2html.awk /usr/local/bin/md2html",
+"scripts": [
+"bin/md2html.awk"
+]
+}
